@@ -23,7 +23,7 @@
 * Git入门可参考 <https://github.com/cs-course/git-tutorial>
 * 所用命令 `git clone git@github.com:(用户名)/iot-storage-experiment-assignment-2018.git`
 
-4. 在本地仓库中，用<large>**_自己学号_**<large>建立文件夹
+4. 在本地仓库中，用 :exclamation: **_自己学号_** 建立文件夹
 
 * 在这个文件夹里面编写报告，保存
 * 用`git commit`操作来提交，`git push`操作来推送进自己Fork之仓库
